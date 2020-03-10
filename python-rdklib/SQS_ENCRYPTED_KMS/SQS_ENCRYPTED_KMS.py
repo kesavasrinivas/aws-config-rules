@@ -33,6 +33,9 @@ Trigger:
 Reports on:
   AWS::SQS::Queue
 
+Rule Parameters:
+  None
+
 Scenarios:
   Scenario: 1
     Given: SQS Queue is active
